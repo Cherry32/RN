@@ -1,0 +1,52 @@
+/*生鲜农产品样式*/
+.shengxian_ncp01{width:100%; float:left; background:#fff;}
+.shengxian_ncp01 .pic{width:1.6rem; height:1.6rem; margin-left:0.1rem; float:left;}
+.shengxian_ncp01 .pic img{width:1.6rem; height:1.6rem; float:left;}
+.shengxian_ncp01 .spxxms{margin-left:1.8rem; height:1.6rem; margin-right:0.1rem; font-size:0.2rem;}
+.shengxian_ncp01 p{width:100%; float:left; line-height:0.3rem;}
+.shengxian_ncp01 .ziying{float:left; padding:0px; margin:0px; padding-left:5px;}
+.shengxian_ncp01 .ziying img{height:15px;}
+.shengxian_ncp01 .dp_mc .span_bt{float:left; height:0.4rem; line-height:0.4rem; display:block; color:#1f2228; font-size:0.26rem;}
+.shengxian_ncp01 .jiage{float:left; font-size:0.26rem; color:#cf141b; padding-right:3px;}
+.shengxian_ncp01 .yuanjia{color:#999; float:left; margin-top:2px;}
+.shengxian_ncp01 .gao_ul{margin-top:0.1rem; height:0.4rem;}
+.shengxian_ncp01 .ul_sp01{width:100%; float:left; border-bottom:1px solid #dedede; padding:0.1rem 0px; position:relative; z-index:1;}
+.shengxian_ncp01 .ul_sp01 .plxl{float:left; line-height:0.4rem;}
+.shengxian_ncp01 .ul_sp01 .shaixuan{color:#fff; background:#cf141b; padding:5px 10px; margin:0px; border-radius:3px; float:right; border:0px;}
+.shengxian_ncp01 .ul_sp02{width:100%; float:left; border-bottom:1px solid #dedede; background:#f2f2f2; padding:0.1rem 0px;}
+.shengxian_ncp01 .ul_sp02 .dpmc{color:#1f2228; float:left; padding-left:0.1rem; padding-right:0.1rem; height:0.4rem; line-height:0.4rem;}
+.shengxian_ncp01 .ul_sp02 .ziying{float:left; height:0.4rem;}
+.shengxian_ncp01 .ul_sp02 .ziying img{height:0.3rem; margin-top:0.05rem;}
+.shengxian_ncp01 .ul_sp02 .cyxx{color:#1f2228; float:right; padding-right:0.1rem; height:0.4rem; line-height:0.4rem;}
+.shengxian_ncp01 .miaoshuxx{width:100%; float:left; padding:0.1rem 0px;}
+.shengxian_ncp01 .miaoshuxx li{display:block; padding:0px 0.1rem; color:#999; font-size:0.2rem;}
+.shengxian_ncp01 .dpxx{width:60%; height:0.3rem; color:#555;}
+.shengxian_ncp01 .jrdp_01{color:#fff; background:#cf141b; padding:0.15rem 0.3rem; border-radius:0.1rem; position:absolute; right:0.1rem; top:0.2rem;}
+.shengxian_ncp01 .bfb60{width:60%; float:left; overflow:hidden;}
+.shengxian_ncp02{width:100%; float:left;}
+.shengxian_ncp02 .ul_01{width:100%; float:left; padding:0.2rem 0px; border-top:1px solid #dedede; position:relative;}
+.shengxian_ncp02 .ul_01 .pic{width:1.5rem; height:1.5rem; float:left; margin-left:0.2rem;}
+.shengxian_ncp02 .ul_01 .pic img{width:1.5rem; height:1.5rem; float:left;}
+.shengxian_ncp02 .ul_01 li{width:100%; float:left;}
+.shengxian_ncp02 .ul_01 .div_right{margin-left:1.8rem; margin-right:0.2rem;}
+.shengxian_ncp02 .ul_01 .div_cpnr{width:100%; float:left;}
+.shengxian_ncp02 .ul_01 .div_cptc{width:100%; float:left; line-height:0.36rem; padding-top:0.1rem; color:#8f9194;}
+.shengxian_ncp02 .ul_01 .div_cptc span{padding:0px 0.2rem; display:block;}
+.shengxian_ncp02 .ul_01 .jg_01{font-size:0.26rem; color:#686868; float:left;}
+.shengxian_ncp02 .ul_01 .jg_02{color:#e25249; float:left;}
+.shengxian_ncp02 .ul_01 .jg_li{height:0.3rem; color:#e25249;}
+.shengxian_ncp02 .ul_01 .jg_li span{float:left;}
+.shengxian_ncp02 .ul_01 .jg_li i{float:left;}
+.shengxian_ncp02 .ul_01 .shuliang{width:1.4rem; top:1.2rem;}
+.shengxian_ncp02 .miaoshuxx{width:100%; float:left; margin-top:0.1rem;}
+.shengxian_ncp02 .miaoshuxx span{display:block; padding:0px 0.1rem; color:#999; font-size:0.2rem;}
+.shengxian_ncp03{width:100%; float:left;}
+.shengxian_ncp03 .ul_01{width:100%; float:left; background:#fff; padding:0.1rem 0px;}
+.shengxian_ncp03 .ul_01 li{width:100%; float:left; color:#1f2228;}
+.shengxian_ncp03 .ul_01 .p_01{width:50%; float:left; height:0.6rem; line-height:0.6rem; padding-left:0.1rem;}
+.shengxian_ncp03 .ul_01 .p_02{width:45%; float:right; height:0.6rem; line-height:0.6rem; padding-right:0.1rem;}
+.shengxian_ncp03 .ul_01 .slxx{width:30%; float:left;}
+.shengxian_ncp03 .ul_01 .jexx{width:70%; float:left; text-align:right;}
+.shengxian_ncp03 .ul_01 .yfxx{float:right; padding-right:0.1rem; text-align:right; color:#e25249;}
+.shengxian_ncp03 .ul_02{width:100%; float:left; background:#fff; padding:0.1rem 0px;}
+.shengxian_ncp03 .ul_02 li{display:block; height:0.4rem; line-height:0.4rem; padding:0px 0.1rem;}

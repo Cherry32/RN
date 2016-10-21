@@ -1,0 +1,71 @@
+/*酒店样式*/
+.jiudian_nr01{width:100%; float:left;}
+.jiudian_nr01 ul{width:100%; float:left; border-bottom:1px solid #dedede;}
+.jiudian_nr01 .ul_01{background:#f9f9f9 url(../images/jiudian_02.png) no-repeat 0.1rem 0.5rem; background-size:0.33rem 0.3rem;}
+.jiudian_nr01 .ul_01 .divsj{display:block; height:1.2rem; margin-right:0.1rem; padding-left:0.6rem; padding-top:0.1rem; background:url(../images/xiala.png) no-repeat 100% 0.45rem; background-size:0.2rem 0.3rem;}
+.jiudian_nr01 .ul_01 p{display:block; height:0.5rem; line-height:0.5rem; color:#333;}
+.jiudian_nr01 .ul_01 .span_red{color:#e25249;}
+.jiudian_nr01 .ul_02{background:#f9f9f9 url(../images/jiudian_02.png) no-repeat 0.1rem 0.28rem; background-size:0.33rem 0.3rem;}
+.jiudian_nr01 .ul_02 .divsj{display:block; height:0.8rem; margin-right:0.1rem; padding-left:0.6rem; background:url(../images/xiala.png) no-repeat 100% 0.25rem; background-size:0.2rem 0.3rem;}
+.jiudian_nr01 .ul_02 p{display:block; height:0.8rem; line-height:0.8rem; color:#333;}
+.jiudian_nr01 .ul_02 .span_red{color:#e25249;}
+.jiudian_nr01 .a_02{width:100%; float:left;}
+.jiudian_nr01 li{margin:0px 0.1rem; display:block; height:0.5rem; background:url(../images/xiala.png) no-repeat 100% 0.18rem; background-size:0.2rem 0.3rem;}
+.jiudian_nr01 img{float:left; height:0.24rem; margin-right:5px;}
+.jiudian_nr01 .a_01{width:100%; float:left; padding:0.2rem 0px; color:#666;}
+.jiudian_nr01 .span_01{float:left; height:0.24rem; margin-top:0.03rem; float:left; margin-right:0.1rem;}
+.jiudian_nr01 .span_02{height:0.3rem; line-height:0.3rem; float:left; font-size:0.26rem;}
+.jiudian_nr01 .wycz{display:block; padding:0.1rem; height:0.6rem;}
+.jiudian_nr01 .wycz a{width:100%; float:left; background:#e25249; color:#fff; height:0.8rem; line-height:0.8rem; text-align:center; border:0px;}
+.jiudian_nr01 .wycz span{display:inline-block; height:0.8rem; line-height:0.8rem; background:url(../images/jiudian_05.png) no-repeat 0px 0.2rem; background-size:0.35rem 0.35rem; padding-left:0.45rem;}
+.jiudian_nr02{width:100%; position:fixed; z-index:1000; left:0px; bottom:0px; display:none; background:#fff;}
+.jiudian_nr02 .guanbi{width:100%; float:left; text-align:center; color:#fff; background:#e25249; font-size:0.34rem; border:1px solid #b52526; height:0.88rem; line-height:0.88rem; cursor:pointer;}
+.jiudian_nr02 .guanbi a{width:100%; display:block; border:0px; color:#fff;}
+.jiudianss_footer{width:100%; height:0.88rem; background:#fff; float:left;}
+.jiudianss_footer .qingkong{height:0.88rem; line-height:0.88rem; float:left; padding-left:0.5rem; background:url(../images/qingkong.png) no-repeat 0.1rem 0.26rem; background-size:0.31rem 0.32rem; color:#000;}
+.jiudianss_footer .wanchengss{height:0.5rem; line-height:0.5rem; border:0px; border-radius:0.07rem; color:#e25249; cursor:pointer; background:#fff; padding:0px 0.2rem; width:auto; border:1px solid #e25249; margin-top:0.15rem;}
+.jiudian_fwtc{width:100%; float:left; padding:0.1rem 0px;}
+.jiudian_fwtc ul{width:16.5%; float:left;}
+.jiudian_fwtc li{width:100%; margin-top:0.05rem; float:left; text-align:center; color:#484848;}
+.jiudian_fwtc img{width:50%;}
+.jiudian_list03{width:100%; float:left; color:#1f2228;}
+.jiudian_list03 .li_01{width:45%; float:left; padding-left:0.1rem; font-size:0.3rem;}
+.jiudian_list03 .li_02{width:45%; text-align:right; float:right; padding-right:0.1rem; font-size:0.3rem;}
+.jiudian_list03 .red_hs{color:#e25249;}
+.jiudian_list03 .ul_01{width:100%; height:0.8rem; line-height:0.8rem; background:#f2f2f2; border-bottom:1px solid #dedede;}
+.jiudian_list03 .ul_02{width:100%; height:0.6rem; line-height:0.6rem; background:#fff; border-bottom:1px solid #dedede;}
+.jiudian_list03 .ul_03{width:100%; height:0.8rem; line-height:0.8rem; background:#fff; border-top:9px solid #f2f2f2;}
+.jiudian_list04{width:100%; height:0.8rem; background:#e25249; float:left;}
+.jiudian_more{width:100%; float:left; cursor:pointer; text-align:center;}
+.jiudian_more li{width:100%; height:0.6rem; line-height:0.6rem; color:#848484; float:left; text-align:center;}
+.jiudian_more .gengduo{text-align:center;}
+.jiudian_more .shouqi{display:none;}
+.jiudian_lb01{width:100%; float:left; background:#fff; padding:0.1rem 0px; position:relative;}
+.jiudian_lb01 .ul_01{color:#848484; line-height:0.6rem; display:block; padding-left:10px; margin-right:0.4rem;}
+.jiudian_lb01 .i_sx{width:0.26rem; height:0.22rem; border:0px; background:url(../images/cy_shuaxin.png) no-repeat 0px 0px; background-size:0.26rem 0.22rem; position:absolute; right:0.2rem; top:30%;}
+.jiudian_lb02{width:100%; float:left;}
+.jiudian_lb02 .ul_01{width:100%; float:left; background:#fff; padding:0.2rem 0px; position:relative; z-index:1;}
+.jiudian_lb02 .ul_01 .pic{width:1.6rem; height:1.6rem; margin-left:0.2rem; float:left;}
+.jiudian_lb02 .ul_01 .pic img{width:1.6rem; height:1.6rem; float:left;}
+.jiudian_lb02 .ul_01 .div_right{margin-left:2rem; height:1.6rem; margin-right:0.2rem;}
+.jiudian_lb02 .ul_01 li{width:100%; float:left;}
+.jiudian_lb02 .ul_01 .bt{float:left;}
+.jiudian_lb02 .ul_01 .span_dbt{height:0.28rem; line-height:0.28rem; color:#646464; float:left;}
+.jiudian_lb02 .ul_01 .span_bt{height:0.28rem; line-height:0.28rem; color:#646464; float:left; max-width:4.2rem; font-size:0.28rem;}
+.jiudian_lb02 .ul_01 .span_jdbt{height:0.28rem; line-height:0.28rem; color:#646464; margin-right:0.1rem; display:block;}
+.jiudian_lb02 .ul_01 .ziying{float:left; height:0.28rem; padding-left:5px;}
+.jiudian_lb02 .ul_01 .ziying img{width:0.28rem; height:0.28rem; float:left;}
+.jiudian_lb02 .ul_01 .dz_li{margin-top:0.1rem;}
+.jiudian_lb02 .ul_01 .dz_span{color:#646464; display:block; line-height:0.28rem; padding-left:0.3rem; background:url(../images/dz_icon.png) no-repeat 0px 2px; background-size:0.18rem 0.22rem;}
+.jiudian_lb02 .ul_01 .jg_li{margin-top:0.06rem; color:#e25249;}
+.jiudian_lb02 .ul_01 .jg_01{color:#646464;}
+.jiudian_lb02 .ul_01 .jg_02{color:#e25249;}
+.jiudian_lb02 .ul_01 .tese{color:#f59b16; margin-top:0.1rem; line-height:0.3rem;}
+.jiudian_lb02 .ul_01 .xingji{float:left; height:0.2rem; margin-top:0.1rem;}
+.jiudian_lb02 .ul_01 .xingji img{float:left; height:0.2rem;}
+.jiudian_lb02 .ul_01 .pingfen{float:left; height:0.2rem; line-height:0.2rem; font-size:0.2rem; padding-left:5px; color:#e25249; margin-top:0.1rem;}
+.jiudian_lb02 .ul_01 .rnrs{color:#8b8b8b; line-height:22px; margin-top:5px;}
+.jiudian_lb02 .ul_01 .yuding{background:#e25249; border-radius:0.05rem; color:#fff; padding:0.3em 0.8em; float:left;}
+.jiudian_lb02 .ul_01 .jiage{color:#e25249; font-size:1.2em; line-height:26px; float:left;}
+.jiudian_lb02 .ul_01 .yuanjia{color:#88888d; font-size:1em; line-height:26px; float:left;}
+.jiudian_lb02 .quxiaosc{background:#e25249; border-radius:0.05rem; color:#fff; padding:0.3em 0.8em; position:absolute; z-index:2; bottom:0.2rem; right:0.2rem;}

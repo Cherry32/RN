@@ -1,0 +1,113 @@
+/*超市专用样式*/
+.chaoshi_xx01{width:100%; float:left;}
+.chaoshi_xx01 ul{width:100%; float:left;}
+.chaoshi_xx01 .ul_01{padding:0.15rem 0px;}
+.chaoshi_xx01 .ul_01 .bt{float:left;}
+.chaoshi_xx01 .ul_01 .span_ktvbt{line-height:0.28rem; color:#646464; float:left;}
+.chaoshi_xx01 .ul_01 .span_bt{height:0.28rem; line-height:0.28rem; color:#646464; float:left; max-width:5.2rem; font-size:0.26rem;}
+.chaoshi_xx01 .ul_01 .span_jdbt{height:0.28rem; line-height:0.28rem; color:#646464; margin-right:0.1rem; display:block;}
+.chaoshi_xx01 .ul_01 .ziying{float:left; height:0.28rem; padding-left:0.05rem;}
+.chaoshi_xx01 .ul_01 .ziying img{width:0.28rem; height:0.28rem; float:left;}
+.chaoshi_xx01 .ul_01 .rjxfxx{float:left; color:#646464;}
+.chaoshi_xx01 .ul_01 .pxli{float:right;}
+.chaoshi_xx01 .ul_01 .xingji{float:left; height:0.28rem;}
+.chaoshi_xx01 .ul_01 .xingji img{float:left; height:0.28rem;}
+.chaoshi_xx01 .ul_01 .pingfen{float:left; height:0.28rem; line-height:0.28rem;  padding-left:0.05rem; color:#e25249;}
+.chaoshi_xx01 .ul_02{padding:0.1rem 0px;}
+.chaoshi_xx01 .ul_02 li{width:100%; float:left; line-height:0.4rem; color:#646464;}
+.chaoshi_xx01 .ul_03{padding:0.2rem 0px;}
+.chaoshi_xx01 .ul_03 .dz_li{float:left; height:0.28rem;}
+.chaoshi_xx01 .ul_03 .dz_span{color:#646464; display:block; line-height:0.28rem; padding-left:0.26rem; background:url(../images/dz_icon.png) no-repeat 0px 0.03rem; background-size:0.18rem 0.22rem; max-width:5.2rem;}
+.chaoshi_xx01 .ul_03 .ktvdz_span{color:#646464; display:block; line-height:0.28rem; padding-left:0.26rem; background:url(../images/dz_icon.png) no-repeat 0px 0.03rem; background-size:0.18rem 0.22rem; max-width:5.2rem;}
+.chaoshi_xx01 .ul_03 .ktv_tel{color:#646464; display:block; line-height:0.28rem; padding-left:0.36rem; background:url(../images/cy_02.png) no-repeat 0px 0px; background-size:0.28rem 0.3rem; max-width:5.2rem;}
+.chaoshi_xx01 .ul_03 .a_tel{width:0.36rem; height:0.28rem; float:right; background:url(../images/cy_02.png) no-repeat right top; background-size:0.28rem 0.3rem; border-left:1px solid #dedede;}
+.chaoshi_xx01 .ul_04{padding:0.2rem 0px;}
+.chaoshi_xx01 .ul_04 a{width:49.8%; float:left; text-align:center; color:#f59b16;}
+.chaoshi_xx01 .ul_04 a:first-child{border-right:1px solid #dedede;}
+.chaoshi_xx01 .ul_04 span{display:inline-block; height:0.34rem; line-height:0.34rem;}
+.chaoshi_xx01 .ul_04 .dc{background:url(../images/cy_03.png) no-repeat 0px 0px; background-size:0.36rem 0.34rem; padding-left:0.46rem;}
+.chaoshi_xx01 .ul_04 .dz{background:url(../images/cy_04.png) no-repeat 0px 0px; background-size:0.46rem 0.31rem; padding-left:0.56rem;}
+.chaoshi_xx01 .ul_05{display:table; cursor:pointer; padding:0.1rem 0px; background:url(../images/xiala.png) no-repeat 100% 40%; background-size:15px 20px;}
+.chaoshi_xx01 .ul_05 li{width:16%; text-align:center; float:left;}
+.chaoshi_xx01 .ul_05 img{width:50%;}
+.chaoshi_xx02{width:100%; float:left;}
+.chaoshi_xx03{width:25%; padding:0px; margin:0px; float:left;}
+.chaoshi_xx03 ul{width:100%; float:left; font-size:0.3rem; cursor:pointer;}
+.chaoshi_xx03 li{display:block; height:0.8rem; line-height:0.8rem; text-align:center; word-break:keep-all; white-space:nowrap; text-overflow:ellipsis; overflow:hidden; border-bottom:1px solid #dedede;}
+.chaoshi_xx03 .this{position:relative; background:#FFF; color:#b1191a; border-right:1px solid #fff; border-left:2px solid #F00;}
+.chaoshi_xx04{width:75%; float:left;}
+.chaoshi_xx05{width:100%; float:left; background:#fff;}
+.chaoshi_xx05 .ul_05{width:95%; padding-left:5%; float:left;}
+.chaoshi_xx05 .ul_05 .li_bt{width:100%; float:left; line-height:0.8rem; height:0.8rem; color:#1f2228;}
+.chaoshi_xx05 .ul_06{width:95%; margin-left:5%; float:left; padding:0.2rem 0px; border-top:1px solid #dedede; position:relative;}
+.chaoshi_xx05 .ul_06 .pic{width:1.5rem; height:1.5rem; float:left;}
+.chaoshi_xx05 .ul_06 .pic img{width:1.5rem; height:1.5rem; float:left;}
+.chaoshi_xx05 .ul_06 li{width:100%; float:left;}
+.chaoshi_xx05 .ul_06 .div_right{margin-left:1.6rem; margin-right:0.1rem;}
+.chaoshi_xx05 .ul_06 .div_cpnr{width:100%; float:left;}
+.chaoshi_xx05 .ul_06 .div_cptc{width:100%; float:left; line-height:0.36rem; padding-top:0.1rem; color:#8f9194;}
+.chaoshi_xx05 .ul_06 .jg_01{font-size:0.26rem; color:#686868; float:left;}
+.chaoshi_xx05 .ul_06 .jg_02{color:#e25249; float:left;}
+.chaoshi_xx05 .ul_06 .jg_li{height:18px; font-size:14px; color:#e25249;}
+.chaoshi_xx05 .ul_06 .jg_li span{float:left;}
+.chaoshi_xx05 .ul_06 .jg_li i{float:left;}
+.chaoshi_xx05 .ul_06 .shuliang{width:1.4rem; top:1.2rem;}
+.chaoshi_xx05 .ul_07{width:95%; margin-left:5%; float:left; padding:0.2rem 0px; border-bottom:1px solid #dedede; position:relative;}
+.chaoshi_xx05 .ul_07 .pic{width:1.2rem; height:1.2rem; float:left;}
+.chaoshi_xx05 .ul_07 .pic img{width:1.2rem; height:1.2rem; float:left;}
+.chaoshi_xx05 .ul_07 li{width:100%; float:left;}
+.chaoshi_xx05 .ul_07 .div_right{margin-left:1.35rem; margin-right:0.1rem;}
+.chaoshi_xx05 .ul_07 .div_cpnr{width:100%; float:left;}
+.chaoshi_xx05 .ul_07 .div_cptc{width:100%; float:left; line-height:0.36rem; padding-top:0.1rem; color:#8f9194;}
+.chaoshi_xx05 .ul_07 .jg_01{font-size:0.26rem; color:#686868; float:left;}
+.chaoshi_xx05 .ul_07 .jg_02{color:#e25249; float:left;}
+.chaoshi_xx05 .ul_07 .jg_li{height:18px; font-size:14px; color:#e25249;}
+.chaoshi_xx05 .ul_07 .jg_li span{float:left;}
+.chaoshi_xx05 .ul_07 .jg_li i{float:left;}
+.chaoshi_xx06{width:100%; float:left; background:#fff; padding:0.1rem 0px; position:relative;}
+.chaoshi_xx06 .ul_01{color:#848484; line-height:0.6rem; display:block; padding-left:10px; margin-right:0.4rem;}
+.chaoshi_xx06 .i_sx{width:0.26rem; height:0.22rem; border:0px; background:url(../images/cy_shuaxin.png) no-repeat 0px 0px; background-size:0.26rem 0.22rem; position:absolute; right:0.2rem; top:30%;}
+.chaoshi_xx07{width:100%; float:left;}
+.chaoshi_xx07 .ul_01{width:100%; float:left; background:#fff; padding:0.2rem 0px; position:relative; z-index:1;}
+.chaoshi_xx07 .ul_01 .pic{width:1.6rem; height:1.6rem; margin-left:0.2rem; float:left;}
+.chaoshi_xx07 .ul_01 .pic img{width:1.6rem; height:1.6rem; float:left;}
+.chaoshi_xx07 .ul_01 .div_right{margin-left:2rem; height:1.6rem; margin-right:0.2rem;}
+.chaoshi_xx07 .ul_01 li{width:100%; float:left;}
+.chaoshi_xx07 .ul_01 .bt{float:left;}
+.chaoshi_xx07 .ul_01 .span_dbt{height:0.28rem; line-height:0.28rem; color:#646464; float:left;}
+.chaoshi_xx07 .ul_01 .span_bt{height:0.28rem; line-height:0.28rem; color:#646464; float:left; max-width:4.2rem; font-size:0.28rem;}
+.chaoshi_xx07 .ul_01 .span_jdbt{height:0.28rem; line-height:0.28rem; color:#646464; margin-right:0.1rem; display:block;}
+.chaoshi_xx07 .ul_01 .ziying{float:left; height:0.28rem; padding-left:5px;}
+.chaoshi_xx07 .ul_01 .ziying img{width:0.28rem; height:0.28rem; float:left;}
+.chaoshi_xx07 .ul_01 .dz_li{margin-top:0.1rem;}
+.chaoshi_xx07 .ul_01 .dz_span{color:#646464; display:block; line-height:0.28rem; padding-left:0.3rem; background:url(../images/dz_icon.png) no-repeat 0px 2px; background-size:0.18rem 0.22rem;}
+.chaoshi_xx07 .ul_01 .jg_li{margin-top:0.06rem; color:#e25249;}
+.chaoshi_xx07 .ul_01 .jg_01{color:#646464;}
+.chaoshi_xx07 .ul_01 .jg_02{color:#e25249;}
+.chaoshi_xx07 .ul_01 .tese{color:#f59b16; margin-top:0.1rem; line-height:0.3rem;}
+.chaoshi_xx07 .ul_01 .xingji{float:left; height:0.2rem; margin-top:0.1rem;}
+.chaoshi_xx07 .ul_01 .xingji img{float:left; height:0.2rem;}
+.chaoshi_xx07 .ul_01 .pingfen{float:left; height:0.2rem; line-height:0.2rem; font-size:0.2rem; padding-left:5px; color:#e25249; margin-top:0.1rem;}
+.chaoshi_xx07 .ul_01 .rnrs{color:#8b8b8b; line-height:22px; margin-top:5px;}
+.chaoshi_xx07 .ul_01 .yuding{background:#e25249; border-radius:0.05rem; color:#fff; padding:0.3em 0.8em; float:left;}
+.chaoshi_xx07 .ul_01 .jiage{color:#e25249; font-size:1.2em; line-height:26px; float:left;}
+.chaoshi_xx07 .ul_01 .yuanjia{color:#88888d; font-size:1em; line-height:26px; float:left;}
+.chaoshi_xx07 .quxiaosc{background:#e25249; border-radius:0.05rem; color:#fff; padding:0.3em 0.8em; position:absolute; z-index:2; bottom:0.2rem; right:0.2rem;}
+/*超市购物车*/
+.chaoshi_xx08{width:100%; float:left;}
+.chaoshi_xx08 .ul_01{width:100%; float:left; padding:0.2rem 0px; border-top:1px solid #dedede; position:relative;}
+.chaoshi_xx08 .ul_01 .pic{width:1.5rem; height:1.5rem; float:left; margin-left:0.2rem;}
+.chaoshi_xx08 .ul_01 .pic img{width:1.5rem; height:1.5rem; float:left;}
+.chaoshi_xx08 .ul_01 li{width:100%; float:left;}
+.chaoshi_xx08 .ul_01 .div_right{margin-left:1.8rem; margin-right:0.2rem;}
+.chaoshi_xx08 .ul_01 .div_cpnr{width:100%; float:left;}
+.chaoshi_xx08 .ul_01 .div_cptc{width:100%; float:left; line-height:0.36rem; padding-top:0.1rem; color:#8f9194;}
+.chaoshi_xx08 .ul_01 .div_cptc span{padding:0px 0.2rem; display:block;}
+.chaoshi_xx08 .ul_01 .jg_01{font-size:0.26rem; color:#686868; float:left;}
+.chaoshi_xx08 .ul_01 .jg_02{color:#e25249; float:left;}
+.chaoshi_xx08 .ul_01 .jg_li{height:0.3rem; color:#e25249;}
+.chaoshi_xx08 .ul_01 .jg_li span{float:left;}
+.chaoshi_xx08 .ul_01 .jg_li i{float:left;}
+.chaoshi_xx08 .ul_01 .shuliang{width:1.4rem; top:1.2rem;}
+.chaoshi_xx08 .miaoshuxx{width:100%; float:left; margin-top:0.1rem;}
+.chaoshi_xx08 .miaoshuxx span{display:block; padding:0px 0.1rem; color:#999; font-size:0.2rem;}
