@@ -1,0 +1,104 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>简淘科技</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+<link href="css/index.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/jquery_2_1_4.js"></script>
+<script type="text/javascript" src="js/common.js"></script>
+<script type="text/javascript" src="js/jiaodiantu.js"></script>
+</head>
+<body class="f2f2f2">
+<header>
+<div class="header_top">
+<a href="javascript:void(0);" id="fanhui_btn" class="header_left"><span class="fanhui">返回</span></a>
+<h1>餐饮评价</h1>
+</div>
+</header>
+<div class="wp_100">
+<div class="header_top"></div>
+<div class="clear"></div>
+</div>
+<!--头部结束内容开始-->
+<div class="wp_100">
+<div class="grzx_ddxx01">
+<ul class="ul_01 bt_cc">
+<div class="danhao">
+<li class="dpmcxx">北京某某大饭店</li>
+</div>
+</ul>
+</div>
+<div class="fa_pinglun01 bt_cc mt10">
+<ul class="ul_01">
+<li>总体评价：</li>
+<li>口味：</li>
+<li>服务：</li>
+<li>环境：</li>
+</ul>
+<ul class="right_nr">
+<li class="pingxing">
+<img src="images/wx_b.png" title="1星" class="user_gwpl03" id="cy_zongti1" onclick="pingfen('cy_zongti',1)" />
+<img src="images/wx_b.png" title="2星" class="user_gwpl03" id="cy_zongti2" onclick="pingfen('cy_zongti',2)" />
+<img src="images/wx_b.png" title="3星" class="user_gwpl03" id="cy_zongti3" onclick="pingfen('cy_zongti',3)" />
+<img src="images/wx_b.png" title="4星" class="user_gwpl03" id="cy_zongti4" onclick="pingfen('cy_zongti',4)" />
+<img src="images/wx_b.png" title="5星" class="user_gwpl03" id="cy_zongti5" onclick="pingfen('cy_zongti',5)" />
+<input name="cy_zongti" id="hide_cy_zongti" type="hidden" />
+</li> 
+<li class="pingxing">
+<img src="images/wx_b.png" title="1星" class="user_gwpl03" id="cy_kouwei1" onclick="pingfen('cy_kouwei',1)" />
+<img src="images/wx_b.png" title="2星" class="user_gwpl03" id="cy_kouwei2" onclick="pingfen('cy_kouwei',2)" />
+<img src="images/wx_b.png" title="3星" class="user_gwpl03" id="cy_kouwei3" onclick="pingfen('cy_kouwei',3)" />
+<img src="images/wx_b.png" title="4星" class="user_gwpl03" id="cy_kouwei4" onclick="pingfen('cy_kouwei',4)" />
+<img src="images/wx_b.png" title="5星" class="user_gwpl03" id="cy_kouwei5" onclick="pingfen('cy_kouwei',5)" />
+<input name="cy_kouwei" id="hide_cy_kouwei" type="hidden" />
+</li> 
+<li class="pingxing">
+<img src="images/wx_b.png" title="1星" class="user_gwpl03" id="cy_fuwu1" onclick="pingfen('cy_fuwu',1)" />
+<img src="images/wx_b.png" title="2星" class="user_gwpl03" id="cy_fuwu2" onclick="pingfen('cy_fuwu',2)" />
+<img src="images/wx_b.png" title="3星" class="user_gwpl03" id="cy_fuwu3" onclick="pingfen('cy_fuwu',3)" />
+<img src="images/wx_b.png" title="4星" class="user_gwpl03" id="cy_fuwu4" onclick="pingfen('cy_fuwu',4)" />
+<img src="images/wx_b.png" title="5星" class="user_gwpl03" id="cy_fuwu5" onclick="pingfen('cy_fuwu',5)" />
+<input name="cy_fuwu" id="hide_cy_fuwu" type="hidden" />
+</li> 
+<li class="pingxing">
+<img src="images/wx_b.png" title="1星" class="user_gwpl03" id="cy_huanjing1" onclick="pingfen('cy_huanjing',1)" />
+<img src="images/wx_b.png" title="2星" class="user_gwpl03" id="cy_huanjing2" onclick="pingfen('cy_huanjing',2)" />
+<img src="images/wx_b.png" title="3星" class="user_gwpl03" id="cy_huanjing3" onclick="pingfen('cy_huanjing',3)" />
+<img src="images/wx_b.png" title="4星" class="user_gwpl03" id="cy_huanjing4" onclick="pingfen('cy_huanjing',4)" />
+<img src="images/wx_b.png" title="5星" class="user_gwpl03" id="cy_huanjing5" onclick="pingfen('cy_huanjing',5)" />
+<input name="cy_huanjing" id="hide_cy_huanjing" type="hidden" />
+</li> 
+</ul>
+</div>
+<div class="fa_pinglun02 bb_cc">
+<ul>
+<li class="li_01">
+<textarea class="textarea_srk" placeholder="请输入您的评价内容"></textarea>
+<p class="p_zs"><span class="zuida_shuzi">最多可输入200字</span></p>
+</li>
+</ul>
+</div>
+<div class="div_bfb pb_10 mt_15">
+<li class="p_l_r10div">
+<input type="button" class="sc_pic_01" value="">
+</li>
+</div>
+<div class="grzx_shdz01">
+<ul class="mt_20">
+<li class="zdmc">匿名评论</li>
+<li class="xz_li">
+<input type="radio" id="mrdzxz01" name="aaaa" class="duo_checkbox02" value="1" checked="checked" /><label for="mrdzxz01">是</label>
+</li>
+<li class="xz_li	">
+<input type="radio" id="mrdzxz02" name="aaaa" class="duo_checkbox02" value="1" /><label for="mrdzxz02">否</label>
+</li>
+</ul>
+<ul class="mt_20"><a class="but_01" href="个人中心餐饮订单列表.html">提交评论</a></ul>
+</div>
+<div class="clear"></div>
+</div>
+</body>
+</html>

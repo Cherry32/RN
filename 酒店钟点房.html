@@ -1,0 +1,104 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>简淘科技</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+<link href="css/jiudian.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/jquery_2_1_4.js"></script>
+<script type="text/javascript" src="js/common.js"></script>
+<script type="text/javascript" src="js/jiaodiantu.js"></script>
+</head>
+<body>
+<header>
+<div class="header_top">
+<a href="javascript:void(0);" id="fanhui_btn" class="header_left"><span class="fanhui">返回</span></a>
+<h1>酒店</h1>
+</div>
+</header>
+<div class="wp_100">
+<div class="header_top"></div>
+<div class="clear"></div>
+</div>
+<!--头部结束内容开始-->
+<div class="wp_100">
+<div class="huandeng_02" id="huandeng_01">
+<div class="huandeng_03">
+<ul class="huandeng_04">
+<li>
+<a href="#"><img src="images/ad_jd01.jpg" /></a>
+</li>
+<li>
+<a href="#"><img src="images/ad_jd02.jpg" /></a>
+</li>
+<li>
+<a href="#"><img src="images/ad_jd03.jpg" /></a>
+</li>
+<li>
+<a href="#"><img src="images/ad_jd04.jpg" /></a>
+</li>
+</ul>
+</div>
+</div>
+<script type="text/javascript">
+    $(function(){
+      $('.huandeng_03').huadong_jsxx({
+        animation: "slide",
+        start: function(slider){
+          $('div').removeClass('huandeng_01');
+        }
+      });
+    });
+$(document).ready(function(){
+$(".huandeng_02").css({height:$(window).width()/2.3});
+$(".huandeng_02 img").css({height:$(window).width()/2.3});
+});
+</script>
+<div class="list_select01 pt_10 bj_fff">
+<ul class="ul_02">
+<li class="moren">
+<a href="酒店首页.html">全日房</a>
+</li>
+</ul>
+<ul class="ul_02">
+<li class="this">
+<a href="酒店钟点房.html">钟点房</a>
+</li>
+</ul>
+</div>
+<div class="jiudian_nr01 bj_fff pb_10">
+<ul>
+<li>
+<a href="酒店选择地址.html" class="a_01"><span class="span_01"><img src="images/jiudian_01.png"></span><span class="span_02 red pl_10">北京</span></a>
+</li>
+</ul>
+<ul class="ul_02">
+<a class="a_02" href="酒店选择入住日期.html">
+<div class="divsj">
+<p>10-16日  周五<span class="span_red pl_10">入住</span></p>
+</div>
+</a>
+</ul>
+<ul>
+<li>
+<a href="附近酒店位置.html" class="a_01"><span class="span_01"><img src="images/jiudian_03.png"></span><span class="span_02">我的附近</span></a>
+</li>
+</ul>
+<ul>
+<div class="wycz">
+<a href="酒店列表.html"><span>查找</span></a>
+</div>
+</ul>
+<ul>
+<li>
+<a href="我的酒店.html" class="a_01"><span class="span_01"><img src="images/jiudian_04.png"></span><span class="span_02">我的酒店</span></a>
+</li>
+</ul>
+</div>
+<div class="clear"></div>
+</div>
+
+</body>
+</html>
